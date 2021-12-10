@@ -1,6 +1,4 @@
-//
-// Created by squer on 08/12/2021.
-//
+
 
 #include "lib.h"
 #include <string.h>
